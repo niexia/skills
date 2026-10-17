@@ -1,0 +1,159 @@
+{
+  "observed_at": "2026-10-17",
+  "scope": "Three skills-name queries plus agent skills in:name,description; first 20 or 50 results only. Curated subset, not exhaustive.",
+  "repositories": [
+    {
+      "repo": "obra/superpowers",
+      "stars": 300896,
+      "api_url": "https://api.github.com/repos/obra/superpowers",
+      "method": "GitHub repository search API",
+      "query": "agent skills in:name,description",
+      "archived": false,
+      "pushed_at": null
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": 294414,
+      "api_url": "https://api.github.com/repos/mattpocock/skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-10-13T08:46:40Z"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "stars": 281824,
+      "api_url": "https://api.github.com/repos/affaan-m/ECC",
+      "method": "GitHub repository search API",
+      "query": "agent skills in:name,description",
+      "archived": false,
+      "pushed_at": null
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": 220443,
+      "api_url": "https://api.github.com/repos/multica-ai/andrej-karpathy-skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-04-20T10:05:04Z"
+    },
+    {
+      "repo": "anthropics/skills",
+      "stars": 181659,
+      "api_url": "https://api.github.com/repos/anthropics/skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-10-09T18:45:52Z"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": 107563,
+      "api_url": "https://api.github.com/repos/addyosmani/agent-skills",
+      "method": "GitHub repository search API",
+      "query": "agent-skills in:name",
+      "archived": false,
+      "pushed_at": "2026-10-13T20:24:07Z"
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "stars": 77266,
+      "api_url": "https://api.github.com/repos/ComposioHQ/awesome-claude-skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-09-18T07:16:11Z"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "stars": 64533,
+      "api_url": "https://api.github.com/repos/mvanhorn/last30days-skill",
+      "method": "GitHub repository search API",
+      "query": "agent skills in:name,description",
+      "archived": false,
+      "pushed_at": null
+    },
+    {
+      "repo": "blader/humanizer",
+      "stars": 57660,
+      "api_url": "https://api.github.com/repos/blader/humanizer",
+      "method": "GitHub repository search API",
+      "query": "agent skills in:name,description",
+      "archived": false,
+      "pushed_at": null
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "stars": 55164,
+      "api_url": "https://api.github.com/repos/coreyhaines31/marketingskills",
+      "method": "GitHub repository search API",
+      "query": "agent skills in:name,description",
+      "archived": false,
+      "pushed_at": null
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "stars": 51830,
+      "api_url": "https://api.github.com/repos/K-Dense-AI/scientific-agent-skills",
+      "method": "GitHub repository search API",
+      "query": "agent-skills in:name",
+      "archived": false,
+      "pushed_at": "2026-10-15T23:57:39Z"
+    },
+    {
+      "repo": "kepano/obsidian-skills",
+      "stars": 49668,
+      "api_url": "https://api.github.com/repos/kepano/obsidian-skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-09-15T14:43:57Z"
+    },
+    {
+      "repo": "emilkowalski/skills",
+      "stars": 46800,
+      "api_url": "https://api.github.com/repos/emilkowalski/skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-10-11T13:58:36Z"
+    },
+    {
+      "repo": "vercel-labs/agent-skills",
+      "stars": 32545,
+      "api_url": "https://api.github.com/repos/vercel-labs/agent-skills",
+      "method": "GitHub repository search API",
+      "query": "agent-skills in:name",
+      "archived": false,
+      "pushed_at": "2026-10-14T17:58:45Z"
+    },
+    {
+      "repo": "openai/skills",
+      "stars": 28113,
+      "api_url": "https://api.github.com/repos/openai/skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-09-08T20:35:26Z"
+    },
+    {
+      "repo": "phuryn/pm-skills",
+      "stars": 27129,
+      "api_url": "https://api.github.com/repos/phuryn/pm-skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-10-16T12:28:37Z"
+    },
+    {
+      "repo": "trailofbits/skills",
+      "stars": 7605,
+      "api_url": "https://api.github.com/repos/trailofbits/skills",
+      "method": "GitHub repository search API",
+      "query": "skills in:name sort:stars",
+      "archived": false,
+      "pushed_at": "2026-10-15T19:32:12Z"
+    }
+  ]
+}

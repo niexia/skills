@@ -1,0 +1,4 @@
+.DS_Store
+.claude/skills/
+.agents/skills/
+.ruff_cache/

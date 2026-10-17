@@ -1,0 +1,28 @@
+name: Suggest or update a skill
+description: Propose a third-party reference, local skill or source link update
+title: "[Skill] "
+body:
+  - type: textarea
+    id: purpose
+    attributes:
+      label: Capability and tasks
+      description: Describe the task, expected output and exclusions
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Use original for a local skill or provide the upstream GitHub skill folder URL
+    validations:
+      required: true
+  - type: textarea
+    id: requirements
+    attributes:
+      label: Category and dependencies
+      description: Suggest a category and list required tools, skills and applicable licenses
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verification scenarios
+      description: Provide positive, negative and failure scenarios with actual evaluation results
