@@ -3,8 +3,12 @@
 - `README.md` is the single registration point for all skills.
   Keep source and purpose; installation requirements stay upstream.
   Maintain the matching Chinese translation without creating local third-party SKILL.md.
-- Maintain the twelve capability categories unless a new capability requires an
-  intentional category change. Cross-category alternatives can be linked in notes.
+- Order the primary categories by work stage: research, requirements, architecture
+  and planning, implementation, verification, delivery, and knowledge retention.
+  Keep Agent orchestration separate from skill authoring and library maintenance.
+  Give each skill one primary category and order related entries by their usual
+  use within that stage. Explain cross-stage uses and alternatives in brief notes.
+  Change categories intentionally and keep both README languages aligned.
 - `docs/source-repositories.md` and `docs/research/` preserve dated research evidence. Reviewed
   commits are historical references, not versions that require synchronization.
 - Update broken paths, migration destinations and outdated purpose descriptions.
